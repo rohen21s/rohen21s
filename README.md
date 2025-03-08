@@ -23,7 +23,9 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 >### 🎵 Discord Music Bot
 >Host "muse" Discord music bot on your own k8s server!<br>
 >**[Check out the Discord Music Bot](https://github.com/rohen21s/kubernetes/tree/main/dcm_bot)**
+><br>
 >
+>### 🎞️ MediaStreamingStack 🛠️ 🇼🇮🇵
 
 <br>
 <br>
