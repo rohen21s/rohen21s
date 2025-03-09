@@ -58,8 +58,8 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 
 
 >## _**rohen21s/terraform**_
-
->WIP
+>
+>TBD
 <br>
 
 <br>
