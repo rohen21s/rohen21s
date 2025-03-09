@@ -54,7 +54,7 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 ><br>
 >
 >### 📜 k8s/LinuxOS tools, pyscripts, commands
->Useful tools, pyscripts, commands to monitor LinuxOS details, k8s resources...
+>Useful tools, pyscripts, commands to monitor LinuxOS details, k8s resources...<br>
 >**[Check out this Cheat Sheet](https://github.com/rohen21s/myProjects/tree/main/myCheatSheet)**
 >
 
