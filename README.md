@@ -25,7 +25,9 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 >**[Check out the Discord Music Bot](https://github.com/rohen21s/kubernetes/tree/main/dcm_bot)**
 ><br>
 >
->### 🎞️ MediaStreamingStack 🛠️ 🇼🇮🇵
+>### 🎞️ MediaStreamingStack 🛠️
+>[**🇼🇮🇵**](https://github.com/rohen21s/kubernetes/tree/main/media_stack)
+
 
 <br>
 <br>
@@ -49,8 +51,12 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 >### 🌐 Laravel Web Development
 >Check out my porfolio web application built using the Laravel framework.<br>
 >**[Discover Laravel Projects](https://github.com/rohen21s/myProjects/tree/main/myLaravel)**
+><br>
 >
-
+>### 📜 k8s/LinuxOS tools, pyscripts, commands
+>Useful tools, pyscripts, commands to monitor LinuxOS details, k8s resources...
+>**[Check out this Cheat Sheet](https://github.com/rohen21s/myProjects/tree/main/myCheatSheet)**
+>
 
 <br>
 <br>
