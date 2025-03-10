@@ -5,6 +5,8 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 
 >## _**rohen21s/kubernetes**_<br>
 >
+>Explore the **`aplications`** and **`microservices`** hosted in my **`Home Lab k8s cluster`** with the purpose of learning and leveraging the powerful tools of **`containerization`**.
+> 
 >### 🚀 Kubernetes Home Lab on Proxmox
 >Learn how to set up a powerful Kubernetes cluster using Proxmox for your home lab. <br>
 >**[Explore the Kubernetes Home Lab](https://github.com/rohen21s/kubernetes/tree/main/kube_config)**
@@ -26,7 +28,8 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 ><br>
 >
 >### 🎞️ MediaStreamingStack 🛠️
->[**🇼🇮🇵**](https://github.com/rohen21s/kubernetes/tree/main/media_stack)
+>Media Streaming Stack integrated with multiple microservices to watch movies, series, music . . .<br>
+>[**WorkInProgress (WIP)**](https://github.com/rohen21s/kubernetes/tree/main/media_stack)
 
 
 <br>
