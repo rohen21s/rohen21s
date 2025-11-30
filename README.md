@@ -46,19 +46,19 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 >**[View Android Studio Project](https://github.com/rohen21s/myProjects/tree/main/myAndroidStudio)**
 ><br>
 >
+>### 🌐 Laravel Web Development
+>Check out my porfolio web application built using the Laravel framework.<br>
+>**[Discover Laravel Projects](https://github.com/rohen21s/myProjects/tree/main/myLaravel)**
+><br>
+> 
 >### ☕ Java Development
 >Dive into my Java programming projects and code samples.<br>
 >**[Explore Java Projects](https://github.com/rohen21s/myProjects/tree/main/myJava)**
 ><br>
 >
->### 🌐 Laravel Web Development
->Check out my porfolio web application built using the Laravel framework.<br>
->**[Discover Laravel Projects](https://github.com/rohen21s/myProjects/tree/main/myLaravel)**
-><br>
->
->### 📜 k8s/LinuxOS tools, py-scripts, commands
+>### 🐍 Python tools, scripts & k8s/LinuxOS commands
 >Useful tools, pyscripts, commands to monitor LinuxOS details, k8s resources...<br>
->**[Check out my Cheat Sheet](https://github.com/rohen21s/myProjects/tree/main/myCheatSheet)**
+>**[Check out my Cheat Sheet](https://github.com/rohen21s/myProjects/tree/main/myPython)**
 >
 
 <br>
