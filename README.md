@@ -3,7 +3,7 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 <br>
 
 
->## _**rohen21s/kubernetes**_<br>
+>## _**[rohen21s/kubernetes](https://github.com/rohen21s/kubernetes/tree/main)**_<br>
 >
 >Explore the **`aplications`** and **`microservices`** hosted in my **`Home Lab k8s cluster`** with the purpose of learning and leveraging the tools of **`containerization`**.
 > 
@@ -34,7 +34,7 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 
 <br>
 
->## _**rohen21s/myProjects**_<br>
+>## _**[rohen21s/myProjects](https://github.com/rohen21s/myProjects/tree/main)**_<br>
 > 
 >Explore **`myProjects`** repository mainly created for `development of web applications` with the purpose of learning the basics of different `object-oriented` and `basic` `programming languages`.
 >
