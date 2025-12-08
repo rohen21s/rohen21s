@@ -31,10 +31,8 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 >### Media Streaming Stack
 >Media Streaming Stack integrated with multiple microservices to watch movies, series, music . . .<br>
 >[**Explore the media microservice stack**](https://github.com/rohen21s/kubernetes/tree/main/media_stack)
----
 
 <br>
-
 
 >## _**rohen21s/myProjects**_<br>
 > 
