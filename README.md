@@ -5,60 +5,59 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 
 >## _**rohen21s/kubernetes**_<br>
 >
->Explore the **`aplications`** and **`microservices`** hosted in my **`Home Lab k8s cluster`** with the purpose of learning and leveraging the powerful tools of **`containerization`**.
+>Explore the **`aplications`** and **`microservices`** hosted in my **`Home Lab k8s cluster`** with the purpose of learning and leveraging the tools of **`containerization`**.
 > 
 >### Kubernetes Home Lab on Proxmox
 > 
->Learn how to set up a powerful Kubernetes cluster using Proxmox for your home lab. <br>
+>Set up a Kubernetes cluster using Proxmox for your home lab <br>
 >**[Explore the Kubernetes Home Lab](https://github.com/rohen21s/kubernetes/tree/main/kube_config)**
 ><br>
 >
 >### NFS Server - k8s automated storage provisioner
->Build your own Network Attached Storage server using NFS.<br>
+>Build your own Network Attached Storage server using NFS<br>
 >**[Discover more about nfs-kernel-server ](https://github.com/rohen21s/kubernetes/tree/main/nfsnas)**
 ><br>
 >
 >### Lens Monitoring and Management k8s Tool
->Master kubernetes management with an interactive way with Lens, the ultimate Kubernetes tool.<br> 
+>Kubernetes management with an interactive tool "Lens"<br> 
 >**[Learn more about Lens tool](https://github.com/rohen21s/kubernetes/tree/main/lens)**
 ><br>
 >
->### Discord Music Bot
->Host "muse" Discord music bot on your own k8s server!<br>
+>### Discord music bot
+>Host a discord music bot miscroservice on kubernetes<br>
 >**[Check out the Discord Music Bot](https://github.com/rohen21s/kubernetes/tree/main/dcm_bot)**
 ><br>
 >
->### MediaStreamingStack
+>### Media Streaming Stack
 >Media Streaming Stack integrated with multiple microservices to watch movies, series, music . . .<br>
 >[**Explore the media microservice stack**](https://github.com/rohen21s/kubernetes/tree/main/media_stack)
-
-
 ---
 
+<br>
 
 
->## _**rohen21s/coding**_<br>
+>## _**rohen21s/myProjects**_<br>
 > 
->Explore **`myProjects`** mainly created for `Development of Web Applications` with the purpose of learning the basics of `Object Oriented Programming languages`.
+>Explore **`myProjects`** repository mainly created for `development of web applications` with the purpose of learning the basics of different object-oriented `Programming languages` and `scripting`.
 >
 >### Android Studio Project
->Explore my Android development journey and mobile applications.<br>
->**[View Android Studio Project](https://github.com/rohen21s/myProjects/tree/main/myAndroidStudio)**
+> Android mobile app to manage (contacts and users)<br>
+>**[View my Android Studio project](https://github.com/rohen21s/myProjects/tree/main/myAndroidStudio)**
 ><br>
 >
 >### Laravel Web Development
->Check out my porfolio web application built using the Laravel framework.<br>
->**[Discover Laravel Projects](https://github.com/rohen21s/myProjects/tree/main/myLaravel)**
+>Check out my porfolio web application built using  Laravel framework<br>
+>**[Discover my porfolio web project](https://github.com/rohen21s/myProjects/tree/main/myLaravel)**
 ><br>
 > 
 >### Java Development
->Dive into my Java programming projects and code samples.<br>
->**[Explore Java Projects](https://github.com/rohen21s/myProjects/tree/main/myJava)**
+>Dive into my Java object-oriented programming projects and code samples<br>
+>**[Explore my Java projects](https://github.com/rohen21s/myProjects/tree/main/myJava)**
 ><br>
 >
 >### Python tools, scripts & k8s/LinuxOS commands
->Useful tools, pyscripts, commands to monitor LinuxOS details, k8s resources...<br>
->**[Check out my Cheat Sheet](https://github.com/rohen21s/myProjects/tree/main/myPython)**
+>Useful tools and scripts to monitor LinuxOS details, k8s resources<br>
+>**[Check out my Python projects](https://github.com/rohen21s/myProjects/tree/main/myPython)**
 >
 ---
 
@@ -66,10 +65,6 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 
 Each project page contains specific instructions for setup and usage. Click on the links above to dive into the details of each project.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/rohen21s/rohen21s/blob/main/LICENSE) file for details.
+This project is licensed under [MIT License](https://github.com/rohen21s/rohen21s/blob/main/LICENSE)
