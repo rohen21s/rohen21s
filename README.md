@@ -62,6 +62,8 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 >Useful `tools` and `scripts` to monitor `LinuxOS` details, `k8s` resources<br>
 >**[Check out my Python projects](https://github.com/rohen21s/myProjects/tree/main/myPython)**
 ><br>
+><br>
+>
 
 
 ## Getting Started
