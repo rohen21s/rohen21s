@@ -53,17 +53,15 @@ Welcome to my project hub! Here you'll find links to various projects I've been 
 >**[Explore my Java projects](https://github.com/rohen21s/myProjects/tree/main/myJava)**
 ><br>
 >
+>### Golang Development
+>Learning `go` language, code samples and basics<br>
+>**[Explore my go projects](https://github.com/rohen21s/myProjects/tree/main/myGolang)**
+><br>
+> 
 >### Python tools, scripts & k8s/LinuxOS commands
 >Useful `tools` and `scripts` to monitor `LinuxOS` details, `k8s` resources<br>
 >**[Check out my Python projects](https://github.com/rohen21s/myProjects/tree/main/myPython)**
 ><br>
->
->### Golang Development
->Learning `go` language, code samples and basics<br>
->**[Explore my go projects](https://github.com/rohen21s/myProjects/tree/main/myGolang)**
->
-<br>
-
 
 
 ## Getting Started
